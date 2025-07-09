@@ -35,16 +35,20 @@ CSV importado a base relacional desde DBeaver
 
 ├── queries/
 
-│   ├── consultas_basicas.sql
+│   ├── Consultas Datos demográficos.sql
 
-│   ├── exploracion_datos.sql
+│   ├── Consultas_atencion_sanitaria.sql
 
-│   └── analisis_avanzado.sql
+│   ├── Consultas_habitos.sql
+
+│   ├── Consultas_indicadores de vida.sql
+
+│   └── Creacion de tablas e importar datos
+
+│   ├── Cruces y agrupaciones.sql
 
 ├── data/
 
-│   └── diabetes_dataset.csv
-
-│   └── ejemplos_consultas.png
+│   └── diabetes.csv
 
 └── README.md
